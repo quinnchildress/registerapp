@@ -12,7 +12,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="edu.uark.uarkregisterapp.ProductViewActivity"
-    tools:showIn="@layout/activity_product_view">
+    tools:showIn="@layout/activity_product_view"
+
+    >
 
     <TextView
         android:id="@+id/text_view_product_lookup_code"

@@ -20,4 +20,5 @@
     <string name="validation_product_lookup_code">Product lookup code may not be empty.</string>
     <string name="validation_product_count">Product count must be a number and may not be negative.</string>
     <string name="intent_extra_product">intent_extra_product</string>
+    <string name="title_activity_register_screen">register_screen</string>
 </resources>
